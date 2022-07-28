@@ -1,0 +1,2 @@
+CPUTYPE := STM32F405
+

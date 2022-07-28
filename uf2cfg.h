@@ -2,7 +2,9 @@
 #ifndef BOARD_ID
 #define BOARD_ID "STM32F4xx-Arcade-Generic"
 #endif
+#ifndef INDEX_URL
 #define INDEX_URL "https://arcade.makecode.com"
+#endif
 #define UF2_NUM_BLOCKS 8000
 #ifndef VOLUME_LABEL
 #define VOLUME_LABEL "ARCADE-F4"
